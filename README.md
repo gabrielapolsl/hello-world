@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Cześć!
+Mam na imię Gabriela i jestem studentką Politechniki Śląskiej.
